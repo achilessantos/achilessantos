@@ -1,9 +1,11 @@
 # Achiles Gomes dos Santos
 
-🔭 I'm currently working as a software engineer based in Brazil. I like to learn and go depth about new technologies and have contact with other developers. A simple curious about physics, astronomy, etc...
+🔭 I am a software engineer based in Brazil with more than 10 years of developing software solutions and solid knowledge with more than 6 years of experience in the financial segment.
+like to learn and go in-depth about new technologies and have contact with other developers.
 
-* Currently working with Elixir and little bit with VueJS.
-* Prior experience with PHP, Golang, Python, AWS(EC2, RDS, ECR, ECS, CloudWatch)
+I'm working with Elixir with Phoenix, PostgreSQL, and Kafka, with products like PIX, Boletos, TEDs, Internet Banking, and other products in the Financial segment.
+
+Prior experience with tecnologies PHP, Golang, Python, AWS(EC2, RDS, ECR, ECS, CloudWatch)
 
 ### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achillesgomess@gmail.com)](mailto:achillesgomess@gmail.com)
