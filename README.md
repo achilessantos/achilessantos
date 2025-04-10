@@ -1,11 +1,12 @@
 # Achiles Gomes dos Santos
 
-🔭 I am a software engineer based in Brazil with more than 10 years of developing software solutions and solid knowledge with more than 6 years of experience in the financial segment.
-like to learn and go in-depth about new technologies and have contact with other developers.
+🔭 I'm a Software Engineer from Brazil with over 10 years of experience designing and building robust software solutions.
 
-I'm working with Elixir with Phoenix, PostgreSQL, and Kafka, with products like PIX, Boletos, TEDs, Internet Banking, and other products in the Financial segment.
+Since 2018, I've been working on critical fintech products such as PIX, Boletos, TEDs, Open Finance platforms, and Internet Banking. My current tech stack includes Elixir (Phoenix), PostgreSQL, and Kafka, with a strong focus on backend development, distributed systems, and real-time processing.
 
-Prior experience with tecnologies PHP, Golang, Python, AWS(EC2, RDS, ECR, ECS, CloudWatch)
+I also have solid experience with PHP, Python, Golang, and cloud infrastructure using AWS (EC2, RDS, ECR, ECS, CloudWatch).
+
+I’m passionate about clean architecture, performance, and diving deep into new technologies. I also enjoy sharing knowledge and collaborating with other developers to solve meaningful problems.
 
 ### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achillesgomess@gmail.com)](mailto:achillesgomess@gmail.com)
